@@ -16,9 +16,3 @@
 
 نتایج شامل شناسایی بیشترین و کمترین مصرف آب در بازه‌های زمانی مختلف و مقایسه مصرف آب میان صنایع و استان‌ها بود. برای کمک به درک بهتر داده‌ها از نمودارهای مختلف مانند Treemap، Line Chart و Clustered Bar Chart استفاده شد. این نمودارها نشان‌دهنده توزیع و روند تغییرات مصرف آب هستند.
 
-![My Image](Screenshot 1.png)
-![My Image](Screenshot 2.png)
-![My Image](Screenshot 3.png)
-![My Image](Screenshot 4.png)
-![My Image](Screenshot 5.png)
-![My Image](Screenshot 6.png)
